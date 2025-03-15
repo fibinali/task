@@ -1,4 +1,5 @@
 # Flutter App Project 
+
 ## Description
 #### This is a Flutter application featuring a splash screen and a bottom navigation bar with multiple tabs for easy navigation. The app includes:
 
@@ -11,6 +12,7 @@
 #### Clean Code Architecture: Organized folder structure following Flutter best practices.
 
 ## dependencies:
+
 dependencies:
-     flutter:
-      sdk: flutter
+  flutter:
+    sdk: flutter
