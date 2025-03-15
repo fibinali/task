@@ -11,12 +11,3 @@
 
 #### Clean Code Architecture: Organized folder structure following Flutter best practices.
 
-# dependencies:
-dependencies:
-  flutter:
-    sdk: flutter
-    
-# The following section is specific to Flutter packages.
-flutter:
-  assets:
-    - lib/ui/assets/
